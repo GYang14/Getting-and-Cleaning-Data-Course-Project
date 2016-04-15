@@ -10,7 +10,7 @@ This repository hosts the R-script, the code book and output result for the cour
  5. Appropriately labels the data set with descriptive variable names.
  6. From the data set in step 5, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-`TidyData.txt` is the final output result from step 5 above.
+`TidyData.txt` is the final output result from step 6 above.
 
 `CodeBook.md` describes the variables, the data, and any transformations or work that was performed to clean up the data. 
 
